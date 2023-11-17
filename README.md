@@ -48,4 +48,3 @@
 </h1>
 
 
-![snake gif](https://github.com/viniciusandradelisboainfo/viniciusandradelisboainfo/blob/output/github-contribution-grid-snake.svg)
