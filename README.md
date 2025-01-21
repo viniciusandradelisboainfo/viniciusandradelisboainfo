@@ -1,9 +1,9 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+seja+bem+vindo!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+Seja+Bem+Vindo!;" />
 </h1>
 
 
-- 🔭 Eu estou trabalhando atualmente com Python, HTML, CSS, JavaScript e MysqL / I’m currently working on Python, HTML, CSS, JavaScript, MySQL
+- 🔭 Eu estou trabalhando atualmente com Python, HTML, CSS, JavaScript, PHP e MySQL / I’m currently working on Python, HTML, CSS, JavaScript, PHP, MySQL
 - 🌱 Estou aprendendo atualmente Typescript / I’m currently learning Typescript and Java
 - 💬 Me pergunte sobre qualquer coisa, se eu não souber, te ajudo a procurar e aprenderemos juntos / Ask me about anything, if I don't know, I'll help you look it up and then we'll learn together...;-)
 
